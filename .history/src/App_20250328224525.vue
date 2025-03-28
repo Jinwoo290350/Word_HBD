@@ -8,7 +8,7 @@
           v-model="senderName" 
           type="text" 
           class="form-control" 
-          placeholder="เช่น น้องแฟร้งค์สุดยอด"
+          placeholder="เช่น แฟรงค์ผู้ยิ่งใหญ่"
         >
       </div>
 
@@ -18,7 +18,7 @@
           v-model="nickname" 
           type="text" 
           class="form-control" 
-          placeholder="เช่น น้องโปกัสสุดสวย"
+          placeholder="เช่น น้องโปกัสสุด"
           required
         >
       </div>
